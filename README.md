@@ -1,2 +1,2 @@
-# kiphuprueba
-Comporta mi codigo que permite integrase al sistema de pago Khipu
+# khipu prueba
+Codigo que permite integrase al sistema de pago Khipu
